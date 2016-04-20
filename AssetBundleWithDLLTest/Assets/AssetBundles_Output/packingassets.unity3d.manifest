@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2780769736
+CRC: 4120956483
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c27143683296b8116ad8210753fedc69
+    Hash: b8309eb48ec8f6bc708eff6a757f8cec
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 29611c1c41d12cc150d42a4efce42d3b
+    Hash: c091d87f212aa68721d4c5887a401175
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
 Assets:
+- Assets/Resources/ROMtst.bytes
 - Assets/Prefabs/NowPrintingCube.prefab
 Dependencies: []
